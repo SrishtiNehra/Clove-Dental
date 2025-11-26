@@ -7,7 +7,7 @@ The project replicates the design and layout of the original Clove Dental root c
 
 ## 🚀 Live Demo
 
-https://github.com/SrishtiNehra/Clove-Dental.git
+https://srishtinehra.github.io/Clove-Dental/
 
 ---
 
