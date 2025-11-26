@@ -6,10 +6,8 @@ The project replicates the design and layout of the original Clove Dental root c
 ---
 
 ## 🚀 Live Demo
-(Insert your deployed URL here)
 
-Example:  
-https://yourname.github.io/clove-dental-project/
+https://github.com/SrishtiNehra/Clove-Dental.git
 
 ---
 
@@ -49,7 +47,7 @@ README.md
 
 1. Download or clone this repository  
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/SrishtiNehra/Clove-Dental.git
 
 Open index.html in any browser.
 
